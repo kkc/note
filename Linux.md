@@ -10,4 +10,8 @@
 - https://stackoverflow.com/questions/45001349/should-we-use-multiple-acceptor-sockets-to-accept-a-large-number-of-connections
 
 ### Hot Reload
-https://www.haproxy.com/blog/truly-seamless-reloads-with-haproxy-no-more-hacks/
+- https://www.haproxy.com/blog/truly-seamless-reloads-with-haproxy-no-more-hacks/
+
+
+### Development Skills
+- https://medium.com/fcamels-notes/%E5%9C%A8-linux-%E4%B8%8B%E9%96%8B%E7%99%BC-c-c-%E7%9A%84%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97-735fcd960b0
