@@ -7,6 +7,7 @@
 
 ## Golang Implementation Detail
 - https://draveness.me/golang/
+- https://github.com/cch123/golang-notes
 ### Lock
 http://legendtkl.com/2016/10/23/golang-mutex/
 ### Channel
