@@ -14,10 +14,11 @@
 - https://draveness.me/golang/
 - https://github.com/cch123/golang-notes
 ### Lock
-http://legendtkl.com/2016/10/23/golang-mutex/
+- http://legendtkl.com/2016/10/23/golang-mutex/
 ### Channel
-https://i6448038.github.io/2019/04/11/go-channel/
-
+- https://i6448038.github.io/2019/04/11/go-channel/
+### Json Decoder
+- https://ahmet.im/blog/golang-json-decoder-pitfalls/
 
 # Cron
 https://mp.weixin.qq.com/s/tkm9nYcyUxE2vUbplSO-pA
