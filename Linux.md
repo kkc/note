@@ -21,3 +21,6 @@
 
 ### Futex
 - https://blog.csdn.net/jianchaolv/article/details/7544316
+
+### Socket takeover
+- https://copyconstruct.medium.com/file-descriptor-transfer-over-unix-domain-sockets-dcbbf5b3b6ec
