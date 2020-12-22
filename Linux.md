@@ -27,3 +27,7 @@
 
 ### IO_uring
 - https://lwn.net/Articles/776703/
+
+### Memory Compaction
+- https://zhuanlan.zhihu.com/p/81983973
+- https://zhuanlan.zhihu.com/p/71217136
