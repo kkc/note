@@ -24,3 +24,6 @@
 
 ### Socket takeover
 - https://copyconstruct.medium.com/file-descriptor-transfer-over-unix-domain-sockets-dcbbf5b3b6ec
+
+### IO_uring
+- https://lwn.net/Articles/776703/
