@@ -40,3 +40,4 @@
 
 ## Disk
 - https://lwn.net/Articles/283161/
+- journal http://pages.cs.wisc.edu/~remzi/OSTEP/file-journaling.pdf
