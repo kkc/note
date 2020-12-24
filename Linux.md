@@ -1,5 +1,11 @@
-## Cgroup
+## Cgroup & Namespace
 - https://www.redhat.com/sysadmin/cgroups-part-one
+
+### Internal
+- https://feichashao.com/kernel-namespace-implementation/
+- Namespace file descriptor (https://lwn.net/Articles/407495/)
+- Namespace https://lwn.net/Articles/531114/
+
 
 ## Networking
 
