@@ -4,3 +4,7 @@ https://gcc.gnu.org/onlinedocs/gcc/Zero-Length.html
 
 ### Fast C Library for 32bit and 64bit Integer Compression
 https://github.com/cruppstahl/libvbyte
+
+### Structure packing
+memory alignment issues
+http://www.catb.org/esr/structure-packing/
