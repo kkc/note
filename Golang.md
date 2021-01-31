@@ -26,3 +26,6 @@ https://mp.weixin.qq.com/s/tkm9nYcyUxE2vUbplSO-pA
 
 ## Tools
 https://itnext.io/sniffing-creds-with-go-a-journey-with-libpcap-73bc3e74966
+
+## Misc Topic
+- https://medium.com/a-journey-with-go/go-improve-the-usage-of-your-goroutines-with-godebug-4d1f33970c33
