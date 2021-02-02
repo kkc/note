@@ -4,3 +4,7 @@
 
 ## Crafting Interpreters
 - http://craftinginterpreters.com/contents.html
+
+
+## how to write a shared lib
+- https://software.intel.com/sites/default/files/m/a/1/e/dsohowto.pdf
