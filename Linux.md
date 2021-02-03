@@ -1,6 +1,11 @@
 ## Cgroup & Namespace
 - https://www.redhat.com/sysadmin/cgroups-part-one
 
+
+## Memory related
+- https://www.kernel.org/doc/gorman/html/understand/
+- https://landley.net/writing/memory-faq.txt
+
 ### Internal
 - https://feichashao.com/kernel-namespace-implementation/
 - Namespace file descriptor (https://lwn.net/Articles/407495/)
