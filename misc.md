@@ -8,3 +8,6 @@
 
 ## how to write a shared lib
 - https://software.intel.com/sites/default/files/m/a/1/e/dsohowto.pdf
+
+## computation structures
+https://computationstructures.org/lectures/pbeta/pbeta.html#3
