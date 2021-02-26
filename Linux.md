@@ -38,6 +38,8 @@
 
 ### IO_uring
 - https://lwn.net/Articles/776703/
+- https://kernel.taobao.org/2020/06/io_uring-in-Alibaba-Cloud-Linux-2-LTS/
+- https://kernel.taobao.org/2020/09/New_Weapon_for_High_Concurrency_Network_Programming/
 
 ### Memory Compaction
 - https://zhuanlan.zhihu.com/p/81983973
